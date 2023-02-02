@@ -16,5 +16,3 @@ Enter the value of l
 Completed 
 
 
-Thank you, Professor.
-
